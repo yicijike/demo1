@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("second commit!");
 
+        System.out.println("test3");
+
     }
 }
